@@ -1,19 +1,25 @@
 {
-  "name": "@airtyper/reachable",
-  "version": "1.0.0",
-  "description": "Verify whether an input email address is actually capable of receiving emails.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Airtyper/reachable.git"
-  },
-  "author": "Airtyper",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Airtyper/reachable/issues"
-  },
-  "homepage": "https://github.com/Airtyper/reachable#readme"
+	"name": "@airtyper/reachable",
+	"version": "1.0.0",
+	"description": "Verify whether an input email address is actually capable of receiving emails.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Airtyper/reachable.git"
+	},
+	"author": "Airtyper",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Airtyper/reachable/issues"
+	},
+	"homepage": "https://github.com/Airtyper/reachable#readme",
+	"keywords": [
+		"reachable",
+		"email",
+		"validation",
+		"mx"
+	]
 }
